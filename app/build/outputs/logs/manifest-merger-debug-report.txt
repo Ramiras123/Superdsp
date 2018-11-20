@@ -1,0 +1,163 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/Ramiras/Desktop/labs/laba7/app/src/main/AndroidManifest.xml:3:1-27:12
+INJECTED from /Users/Ramiras/Desktop/labs/laba7/app/src/main/AndroidManifest.xml:3:1-27:12
+INJECTED from /Users/Ramiras/Desktop/labs/laba7/app/src/main/AndroidManifest.xml:3:1-27:12
+INJECTED from /Users/Ramiras/Desktop/labs/laba7/app/src/main/AndroidManifest.xml:3:1-27:12
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/Ramiras/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/58dbe8f3debc6b2e330854a55174a272/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/Ramiras/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/7aba358ec31c19960378e4740030161a/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/Ramiras/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/4413e738f538624fcf5615369deec450/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/Ramiras/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/9e884677f0ae52b26fc339576a7a32e5/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.3.1] /Users/Ramiras/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/a03f5105e175140e9ad5a5b9c0c05711/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/Ramiras/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/371c907c69e71dfc90127ecd05a8d14a/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/Ramiras/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/f2fc6cf6864d4c07231d44b0d3d054fc/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/Ramiras/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/d07a8bc6ba6a221290380b9aec13f6b4/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/Ramiras/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/32952c59d792e9c69c69df63a1afb479/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.3.1] /Users/Ramiras/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/c1005e4e05df0f079b65563b08791105/AndroidManifest.xml:17:1-31:12
+INJECTED from /Users/Ramiras/Desktop/labs/laba7/app/src/main/AndroidManifest.xml:3:1-27:12
+INJECTED from /Users/Ramiras/Desktop/labs/laba7/app/src/main/AndroidManifest.xml:3:1-27:12
+INJECTED from /Users/Ramiras/Desktop/labs/laba7/app/src/main/AndroidManifest.xml:3:1-27:12
+	package
+		ADDED from /Users/Ramiras/Desktop/labs/laba7/app/src/main/AndroidManifest.xml:4:5-32
+		INJECTED from /Users/Ramiras/Desktop/labs/laba7/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Ramiras/Desktop/labs/laba7/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/Ramiras/Desktop/labs/laba7/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Ramiras/Desktop/labs/laba7/app/src/main/AndroidManifest.xml:3:1-27:12
+		INJECTED from /Users/Ramiras/Desktop/labs/laba7/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/Ramiras/Desktop/labs/laba7/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Ramiras/Desktop/labs/laba7/app/src/main/AndroidManifest.xml:3:1-27:12
+		INJECTED from /Users/Ramiras/Desktop/labs/laba7/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/Ramiras/Desktop/labs/laba7/app/src/main/AndroidManifest.xml:3:11-69
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/Ramiras/Desktop/labs/laba7/app/src/main/AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from /Users/Ramiras/Desktop/labs/laba7/app/src/main/AndroidManifest.xml:6:22-63
+application
+ADDED from /Users/Ramiras/Desktop/labs/laba7/app/src/main/AndroidManifest.xml:7:5-26:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/Ramiras/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/58dbe8f3debc6b2e330854a55174a272/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/Ramiras/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/58dbe8f3debc6b2e330854a55174a272/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/Ramiras/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/7aba358ec31c19960378e4740030161a/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/Ramiras/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/7aba358ec31c19960378e4740030161a/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/Ramiras/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/4413e738f538624fcf5615369deec450/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/Ramiras/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/4413e738f538624fcf5615369deec450/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/Ramiras/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/9e884677f0ae52b26fc339576a7a32e5/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/Ramiras/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/9e884677f0ae52b26fc339576a7a32e5/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/Ramiras/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/a03f5105e175140e9ad5a5b9c0c05711/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/Ramiras/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/a03f5105e175140e9ad5a5b9c0c05711/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/Ramiras/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/371c907c69e71dfc90127ecd05a8d14a/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/Ramiras/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/371c907c69e71dfc90127ecd05a8d14a/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/Ramiras/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/f2fc6cf6864d4c07231d44b0d3d054fc/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/Ramiras/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/f2fc6cf6864d4c07231d44b0d3d054fc/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/Ramiras/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/d07a8bc6ba6a221290380b9aec13f6b4/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/Ramiras/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/d07a8bc6ba6a221290380b9aec13f6b4/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/Ramiras/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/32952c59d792e9c69c69df63a1afb479/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/Ramiras/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/32952c59d792e9c69c69df63a1afb479/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/Ramiras/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/c1005e4e05df0f079b65563b08791105/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/Ramiras/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/c1005e4e05df0f079b65563b08791105/AndroidManifest.xml:29:5-20
+	android:supportsRtl
+		ADDED from /Users/Ramiras/Desktop/labs/laba7/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /Users/Ramiras/Desktop/labs/laba7/app/src/main/AndroidManifest.xml:10:9-30
+	android:roundIcon
+		ADDED from /Users/Ramiras/Desktop/labs/laba7/app/src/main/AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from /Users/Ramiras/Desktop/labs/laba7/app/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /Users/Ramiras/Desktop/labs/laba7/app/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /Users/Ramiras/Desktop/labs/laba7/app/src/main/AndroidManifest.xml:13:9-59
+activity#com.example.laba7.MainActivity
+ADDED from /Users/Ramiras/Desktop/labs/laba7/app/src/main/AndroidManifest.xml:14:9-19:20
+	android:screenOrientation
+		ADDED from /Users/Ramiras/Desktop/labs/laba7/app/src/main/AndroidManifest.xml:14:48-84
+	android:name
+		ADDED from /Users/Ramiras/Desktop/labs/laba7/app/src/main/AndroidManifest.xml:14:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/Ramiras/Desktop/labs/laba7/app/src/main/AndroidManifest.xml:15:13-18:29
+action#android.intent.action.MAIN
+ADDED from /Users/Ramiras/Desktop/labs/laba7/app/src/main/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /Users/Ramiras/Desktop/labs/laba7/app/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/Ramiras/Desktop/labs/laba7/app/src/main/AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from /Users/Ramiras/Desktop/labs/laba7/app/src/main/AndroidManifest.xml:17:27-74
+activity#com.example.laba7.OctopusGUIActivity
+ADDED from /Users/Ramiras/Desktop/labs/laba7/app/src/main/AndroidManifest.xml:20:9-92
+	android:screenOrientation
+		ADDED from /Users/Ramiras/Desktop/labs/laba7/app/src/main/AndroidManifest.xml:20:54-90
+	android:name
+		ADDED from /Users/Ramiras/Desktop/labs/laba7/app/src/main/AndroidManifest.xml:20:19-53
+activity#com.example.laba7.WinActivity
+ADDED from /Users/Ramiras/Desktop/labs/laba7/app/src/main/AndroidManifest.xml:21:9-22:20
+	android:screenOrientation
+		ADDED from /Users/Ramiras/Desktop/labs/laba7/app/src/main/AndroidManifest.xml:21:47-83
+	android:name
+		ADDED from /Users/Ramiras/Desktop/labs/laba7/app/src/main/AndroidManifest.xml:21:19-46
+activity#com.example.laba7.LossActivity
+ADDED from /Users/Ramiras/Desktop/labs/laba7/app/src/main/AndroidManifest.xml:23:9-96
+	android:screenOrientation
+		ADDED from /Users/Ramiras/Desktop/labs/laba7/app/src/main/AndroidManifest.xml:23:48-84
+	android:name
+		ADDED from /Users/Ramiras/Desktop/labs/laba7/app/src/main/AndroidManifest.xml:23:19-47
+uses-sdk
+INJECTED from /Users/Ramiras/Desktop/labs/laba7/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/Ramiras/Desktop/labs/laba7/app/src/main/AndroidManifest.xml
+INJECTED from /Users/Ramiras/Desktop/labs/laba7/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/Ramiras/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/58dbe8f3debc6b2e330854a55174a272/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/Ramiras/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/58dbe8f3debc6b2e330854a55174a272/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/Ramiras/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/7aba358ec31c19960378e4740030161a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/Ramiras/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/7aba358ec31c19960378e4740030161a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/Ramiras/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/4413e738f538624fcf5615369deec450/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/Ramiras/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/4413e738f538624fcf5615369deec450/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/Ramiras/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/9e884677f0ae52b26fc339576a7a32e5/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/Ramiras/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/9e884677f0ae52b26fc339576a7a32e5/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:25.3.1] /Users/Ramiras/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/a03f5105e175140e9ad5a5b9c0c05711/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] /Users/Ramiras/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/a03f5105e175140e9ad5a5b9c0c05711/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/Ramiras/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/371c907c69e71dfc90127ecd05a8d14a/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/Ramiras/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/371c907c69e71dfc90127ecd05a8d14a/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/Ramiras/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/f2fc6cf6864d4c07231d44b0d3d054fc/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/Ramiras/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/f2fc6cf6864d4c07231d44b0d3d054fc/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/Ramiras/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/d07a8bc6ba6a221290380b9aec13f6b4/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/Ramiras/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/d07a8bc6ba6a221290380b9aec13f6b4/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/Ramiras/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/32952c59d792e9c69c69df63a1afb479/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/Ramiras/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/32952c59d792e9c69c69df63a1afb479/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] /Users/Ramiras/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/c1005e4e05df0f079b65563b08791105/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] /Users/Ramiras/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/c1005e4e05df0f079b65563b08791105/AndroidManifest.xml:21:5-23:58
+INJECTED from /Users/Ramiras/Desktop/labs/laba7/app/src/main/AndroidManifest.xml
+INJECTED from /Users/Ramiras/Desktop/labs/laba7/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/Ramiras/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/58dbe8f3debc6b2e330854a55174a272/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/Ramiras/Desktop/labs/laba7/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Ramiras/Desktop/labs/laba7/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Ramiras/Desktop/labs/laba7/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/Ramiras/Desktop/labs/laba7/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Ramiras/Desktop/labs/laba7/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Ramiras/Desktop/labs/laba7/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/Ramiras/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/58dbe8f3debc6b2e330854a55174a272/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/Ramiras/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/4413e738f538624fcf5615369deec450/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/Ramiras/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/4413e738f538624fcf5615369deec450/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/Ramiras/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/9e884677f0ae52b26fc339576a7a32e5/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/Ramiras/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/9e884677f0ae52b26fc339576a7a32e5/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/Ramiras/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/a03f5105e175140e9ad5a5b9c0c05711/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/Ramiras/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/a03f5105e175140e9ad5a5b9c0c05711/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/Ramiras/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/371c907c69e71dfc90127ecd05a8d14a/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/Ramiras/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/371c907c69e71dfc90127ecd05a8d14a/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/Ramiras/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/f2fc6cf6864d4c07231d44b0d3d054fc/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/Ramiras/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/f2fc6cf6864d4c07231d44b0d3d054fc/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/Ramiras/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/d07a8bc6ba6a221290380b9aec13f6b4/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/Ramiras/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/d07a8bc6ba6a221290380b9aec13f6b4/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/Ramiras/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/32952c59d792e9c69c69df63a1afb479/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/Ramiras/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/32952c59d792e9c69c69df63a1afb479/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/Ramiras/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/c1005e4e05df0f079b65563b08791105/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/Ramiras/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/c1005e4e05df0f079b65563b08791105/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/Ramiras/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/58dbe8f3debc6b2e330854a55174a272/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/Ramiras/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/58dbe8f3debc6b2e330854a55174a272/AndroidManifest.xml:26:9-47

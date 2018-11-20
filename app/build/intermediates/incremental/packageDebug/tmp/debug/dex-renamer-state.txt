@@ -1,0 +1,13 @@
+#Tue Nov 20 21:40:52 MSK 2018
+path.3=classes.dex
+path.2=classes.dex
+path.1=classes.dex
+path.0=classes.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.3=/Users/Ramiras/Desktop/labs/laba7/app/build/intermediates/transforms/dexMerger/debug/12
+base.2=/Users/Ramiras/Desktop/labs/laba7/app/build/intermediates/transforms/dexMerger/debug/13
+base.1=/Users/Ramiras/Desktop/labs/laba7/app/build/intermediates/transforms/dexMerger/debug/14
+base.0=/Users/Ramiras/Desktop/labs/laba7/app/build/intermediates/transforms/dexMerger/debug/11
